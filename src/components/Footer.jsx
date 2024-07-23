@@ -24,7 +24,7 @@ const Footer = () => {
                 ))}
             </div>
 
-            <div className='mt-5 mr-20'>
+            <div className='mt-5'>
                 <h3>Resources</h3>
                 {resourcesLinks.map((item, index) => (
                     <div>
