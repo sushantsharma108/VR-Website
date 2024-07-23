@@ -4,6 +4,7 @@ import Features from './components/Features'
 import Workflow from './components/Workflow'
 import Pricing from './components/Pricing'
 import Testimonials from './components/Testimonials'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
         <Workflow />
         <Pricing />
         <Testimonials />
+        <Footer />
       </div>
     </>
   )
